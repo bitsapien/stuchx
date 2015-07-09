@@ -1,0 +1,134 @@
+
+
+body {
+	background: #FFF no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color:#111;
+  	font-family: 'Gotham Narrow Light','Gotham Book', Gotham-Book,'Lato', sans-serif;
+	height: 100%;
+	text-align:justify;
+	text-justify:inter-word;
+
+}
+
+
+/* Fonts */
+
+.small-font{
+	font-size:0.8em;
+}
+.med-font{ 
+	font-size:1.5em;
+}
+.large-font{ 
+	font-size:2.2em;
+}
+h3 {
+	margin:0;
+}
+
+
+/* Positioning */
+.center {
+ 	text-align:center;
+}
+
+/* Element-specific */
+
+.profile-block {
+	display: block;
+	margin:10px;
+}
+
+
+.profile-img {
+	max-width : 90px;
+	float: left;
+	padding-right:10px
+}
+
+.profile-block {
+	display: block;
+	margin:10px;
+}
+
+
+
+
+.profile-info {
+	
+}
+.contrib-img {
+	max-width:50px;
+	margin:0.5px;
+	
+}
+.small-img {
+	max-width:30px;
+	
+}
+.contrib {
+	margin:1.5%;
+}
+.footer-cr {
+	text-align:center;
+
+}
+
+.row-fluid{
+	color:#000;
+	font-family: 'Gotham Narrow Light','Gotham Book', Gotham-Book,'Lato', sans-serif;
+	margin-left:1.5% !important;
+	margin-right:1.5% !important;
+}
+.img-responsive{
+	max-width:auto;
+}
+.no-justify {
+	text-align:left !important;
+
+}
+.active i.icon-folder-open{ display:inline-block; }
+.active i.icon-folder-close { display:none;}
+
+.inactive i.icon-folder-close{ display:inline-block; }
+.inactive i.icon-folder-open { display:none;}
+
+.navbar-text {
+	margin-top:0;
+	margin-right:0;
+}
+.modal-content {
+	border-radius:0px !important;
+	
+}	
+.btn-primary {
+	background:#830C0C !important;
+	border-color:#A52222 !important;
+}  
+.btn-primary:hover {
+	background:#A52222 !important;
+	border-color:#830C0C !important;
+	
+}
+
+.dp { 
+
+	max-width:40px;
+}
+#loading {
+	display:none;
+} 
+.table tr{
+	text-align:left;
+	font-size:1.2em;
+}
+.btn {
+	border-radius:0;
+}
+.btn {
+	font-size:1.3em;
+}

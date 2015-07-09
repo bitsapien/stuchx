@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="50mm"
+   id="svg3001"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo-draft-3.svg">
+  <defs
+     id="defs3">
+    <inkscape:path-effect
+       effect="interpolate"
+       id="path-effect3914"
+       is_visible="true"
+       trajectory="M 0,0 0,0"
+       equidistant_spacing="true"
+       steps="5" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3912"
+       is_visible="true"
+       bendpath="M 140.10862,82.078328 167.85588,82.3705"
+       prop_scale="1.16"
+       scale_y_rel="false"
+       vertical="false"
+       bendpath-nodetypes="cc" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="5.2276026 : 68.58268 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="247.79342 : 97.33268 : 1"
+       inkscape:persp3d-origin="129.89936 : 67.80512 : 1"
+       id="perspective3115" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="198.98847"
+     inkscape:cy="96.976955"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3005">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3024"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3026"><rect
+           id="rect3028"
+           width="4.1666665"
+           height="53.333332"
+           x="152.5"
+           y="23.832026" /></flowRegion><flowPara
+         id="flowPara3030"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:77.43703461px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="154.03748"
+       y="108.39504"
+       id="text3036"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1105797,0.90043063)"><tspan
+         sodipodi:role="line"
+         id="tspan3038"
+         x="154.03748"
+         y="108.39504"
+         style="font-size:57.62755966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Sawasdee;-inkscape-font-specification:Sawasdee">CH</tspan></text>
+    <path
+       style="opacity:0.95296302;fill:none;stroke:#7d0000;stroke-width:4.05859709;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 140.39935,54.467905 168.27231,42.822897 167.43945,121.9181 139.82313,109.19139 z"
+       id="rect3901"
+       inkscape:path-effect="#path-effect3912"
+       inkscape:original-d="m 157.07861,58.567091 10.77726,-10.291243 0,68.189302 -10.77726,-10.72003 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:66.18759918000000653px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Saab;-inkscape-font-specification:Saab Bold;font-stretch:normal;font-variant:normal"
+       x="21.526289"
+       y="110.02086"
+       id="text3032"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0878171,0.91927217)"><tspan
+         sodipodi:role="line"
+         id="tspan3034"
+         x="21.526289"
+         y="110.02086"
+         style="font-size:58.83341980000000149px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Saab;-inkscape-font-specification:Saab Bold">STU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.99063492px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="159.96451"
+       y="122.72731"
+       id="text3936"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0990635,0.90986553)"><tspan
+         sodipodi:role="line"
+         id="tspan3938"
+         x="159.96451"
+         y="122.72731">m a g a z i n e</tspan></text>
+  </g>
+</svg>

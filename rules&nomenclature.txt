@@ -1,0 +1,38 @@
+s - Students, f- faculty
+
+EDC - Editor-in-Cheif (6)
+EDT- Editors (4)
+DIR - Heads of groups (2)
+MOD - Moderators (1)
+OTH - Others(includes contributors) (0)
+
+
+Web-roles
+=========
+
+EDC - change his profile, manage users(add+edit+remove), vote for user approval/posts, write the editor's note, create posts
+EDT - change his profile, manage users(add+edit+remove), vote for user approval/posts, create posts
+DIR - change his profile, manage users(add+edit+remove) only whom they have added, vote for user approval/posts, create posts
+MOD - change his profile, vote for posts, create posts
+OTH - change his profile, create posts
+
+
+Web-Notifs
+==========
+
+EDC - 3-month new editor's note, user adds and position changes, new posts made
+EDT - user adds/removals and position changes, posts
+DIR - posts
+MOD - posts
+OTH - your post got approved, list of posts
+
+
+Approval
+========
+
+* Post gets approved when post score is more than or equal to 6
+* New Editor gets approved if he gets a score of 12 only from editors
+* New position gets approved if it gets a score of 12
+* Editor removal needs atleast 22
+
+
